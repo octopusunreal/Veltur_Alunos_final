@@ -282,3 +282,1238 @@ LogInit: Object subsystem initialized
 [2018.10.06-03.34.41:524][  5]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.10.06-03.34.41:524][  5]SourceControl:  create mode 100644 Content/Samuel/Level01.umap
 [2018.10.06-03.34.41:532][  5]SourceControl: Commited [master e6e9aa2] teste commit.
+[2018.10.06-03.37.08:914][467]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.37.09:973][560]Cmd: ACTOR SELECT ALL
+[2018.10.06-03.37.11:038][679]Cmd: EDIT COPY
+[2018.10.06-03.37.11:194][696]Cmd: EDIT COPY
+[2018.10.06-03.37.12:184][799]Cmd: MAP LOAD FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.06-03.37.12:184][799]LightingResults: New page: Compilação de Iluminação
+[2018.10.06-03.37.12:185][799]LoadErrors: New page: Carregando mapa: Level01.umap
+[2018.10.06-03.37.12:186][799]MapCheck: New page: Verificação de Mapa
+[2018.10.06-03.37.12:187][799]LightingResults: New page: Compilação de Iluminação
+[2018.10.06-03.37.12:254][799]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.06-03.37.12:254][799]LogAIModule: Creating AISystem for world Level01
+[2018.10.06-03.37.12:288][799]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.06-03.37.12:376][799]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87,739ms to complete.
+[2018.10.06-03.37.12:377][799]LogFileHelpers: Loading map 'Level01' took 0.194
+[2018.10.06-03.37.14:248][ 18]LogEditorViewport: Clicking Background
+[2018.10.06-03.37.14:722][ 74]Cmd: EDIT PASTE
+[2018.10.06-03.37.14:758][ 74]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.06-03.37.23:294][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Samuel/Level01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-03.37.23:347][827]LogSavePackage: Save=31.93ms
+[2018.10.06-03.37.23:347][827]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Level01944E8C9F4AF29B3BAAA687AB620330D3.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap'
+[2018.10.06-03.37.23:350][827]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap
+[2018.10.06-03.37.23:373][827]LogFileHelpers: Saving map 'Level01' took 0.149
+[2018.10.06-03.37.27:139][216]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.10.06-03.37.39:768][142]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VelturAlunos
+[2018.10.06-03.37.39:768][142]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.10.06-03.37.39:768][142]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.10.06-03.37.39:768][142]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.10.06-03.37.39:774][142]LogTemp: BranchPath = DESKTOP-BJPPTPL/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-BJPPTPL/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.10.06-03.37.39:874][143]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\victo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.06-03.37.44:636][683]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.06-03.37.45:741][808]SourceControl: Error: fatal: Invalid path '/Script': No such file or directory
+[2018.10.06-03.39.34:450][371]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore05.fbx)
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: Material, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: AnimationCurveNode, ItemCount : 1
+[2018.10.06-03.39.34:497][371]LogFbx: ItemName: Video, ItemCount : 1
+[2018.10.06-03.39.34:509][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore05.fbx
+[2018.10.06-03.39.34:525][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.36:095][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore05.fbx
+[2018.10.06-03.39.36:102][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.36:107][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/Texture”
+[2018.10.06-03.39.36:107][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/Texture”
+[2018.10.06-03.39.36:110][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/128”
+[2018.10.06-03.39.36:110][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/128”
+[2018.10.06-03.39.36:118][371]LogTexture: Display: Building textures: 128_2 (AutoDXT, 128X128)
+[2018.10.06-03.39.36:139][371]LogMaterial: Missing cached shader map for material Texture, compiling. 
+[2018.10.06-03.39.36:190][371]LogFbx: Warning: Triangulating static mesh Cactus
+[2018.10.06-03.39.36:322][371]LogStaticMesh: Criando malha estática arvore05...
+[2018.10.06-03.39.36:351][371]LogStaticMesh: Built static mesh [0.03s] /Game/Objetos/Arvores/arvore05.arvore05
+[2018.10.06-03.39.36:385][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.39.36:524][371]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\arvore\placa.fbx)
+[2018.10.06-03.39.36:539][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\placa.fbx
+[2018.10.06-03.39.36:551][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.36:552][371]LogFbx: Warning: Triangulating static mesh Post_Sign
+[2018.10.06-03.39.36:561][371]LogStaticMesh: Criando malha estática placa...
+[2018.10.06-03.39.36:565][371]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/Arvores/placa.placa
+[2018.10.06-03.39.36:578][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.39.36:709][371]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore01.fbx)
+[2018.10.06-03.39.36:724][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore01.fbx
+[2018.10.06-03.39.36:736][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.36:737][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/Tree_Fir_Wood”
+[2018.10.06-03.39.36:737][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/Tree_Fir_Wood”
+[2018.10.06-03.39.36:743][371]LogMaterial: Missing cached shader map for material Tree_Fir_Wood, compiling. 
+[2018.10.06-03.39.36:765][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/Tree_Fir_Foliage”
+[2018.10.06-03.39.36:765][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/Tree_Fir_Foliage”
+[2018.10.06-03.39.36:770][371]LogMaterial: Missing cached shader map for material Tree_Fir_Foliage, compiling. 
+[2018.10.06-03.39.36:795][371]LogFbx: Warning: Triangulating static mesh Tree_Fir
+[2018.10.06-03.39.36:966][371]LogStaticMesh: Criando malha estática arvore01...
+[2018.10.06-03.39.36:983][371]LogStaticMesh: Built static mesh [0.02s] /Game/Objetos/Arvores/arvore01.arvore01
+[2018.10.06-03.39.36:998][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.39.37:134][371]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore02.fbx)
+[2018.10.06-03.39.37:149][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore02.fbx
+[2018.10.06-03.39.37:162][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.37:162][371]LogFbx: Warning: Triangulating static mesh Tree03
+[2018.10.06-03.39.37:312][371]LogStaticMesh: Criando malha estática arvore02...
+[2018.10.06-03.39.37:340][371]LogStaticMesh: Built static mesh [0.03s] /Game/Objetos/Arvores/arvore02.arvore02
+[2018.10.06-03.39.37:356][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.39.37:490][371]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore03.fbx)
+[2018.10.06-03.39.37:506][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore03.fbx
+[2018.10.06-03.39.37:517][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.37:518][371]LogFbx: Warning: Triangulating static mesh Tree09
+[2018.10.06-03.39.37:586][371]LogStaticMesh: Criando malha estática arvore03...
+[2018.10.06-03.39.37:598][371]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/Arvores/arvore03.arvore03
+[2018.10.06-03.39.37:600][371]LogStaticMesh: Warning: arvore03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.06-03.39.37:611][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.39.37:611][371]FBXImport: Warning: arvore03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.06-03.39.37:757][371]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore04.fbx)
+[2018.10.06-03.39.37:772][371]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\arvore\arvore04.fbx
+[2018.10.06-03.39.37:789][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.39.37:790][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/lambert2”
+[2018.10.06-03.39.37:790][371]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/Arvores/lambert2”
+[2018.10.06-03.39.37:798][371]LogTexture: Display: Building textures: 128_3 (AutoDXT, 128X128)
+[2018.10.06-03.39.37:815][371]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.10.06-03.39.37:842][371]LogFbx: Warning: Triangulating static mesh Tree07
+[2018.10.06-03.39.38:529][371]LogStaticMesh: Criando malha estática arvore04...
+[2018.10.06-03.39.38:639][371]LogStaticMesh: Built static mesh [0.11s] /Game/Objetos/Arvores/arvore04.arvore04
+[2018.10.06-03.39.38:664][371]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.06-03.39.38:666][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.39.46:516][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/128_2" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/128_2.uasset" SILENT=true
+[2018.10.06-03.39.46:533][791]LogSavePackage: Save=13.71ms
+[2018.10.06-03.39.46:533][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/128_272A129594B281D3D00055BA42CFB3BFE.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/128_2.uasset'
+[2018.10.06-03.39.46:538][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/128_2.uasset
+[2018.10.06-03.39.46:744][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/128_3" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/128_3.uasset" SILENT=true
+[2018.10.06-03.39.46:762][791]LogSavePackage: Save=14.33ms
+[2018.10.06-03.39.46:762][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/128_31B77593142426030511271BCA1035534.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/128_3.uasset'
+[2018.10.06-03.39.46:767][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/128_3.uasset
+[2018.10.06-03.39.46:987][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/arvore01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore01.uasset" SILENT=true
+[2018.10.06-03.39.47:015][791]LogSavePackage: Save=25.10ms
+[2018.10.06-03.39.47:015][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/arvore011E9A62894ED6BC2813AE9EAE801C12E6.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore01.uasset'
+[2018.10.06-03.39.47:020][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore01.uasset
+[2018.10.06-03.39.50:041][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/arvore02" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore02.uasset" SILENT=true
+[2018.10.06-03.39.50:072][791]LogSavePackage: Save=25.54ms
+[2018.10.06-03.39.50:072][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/arvore02E26BA85A4C9C25A38B8344B327C54AE3.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore02.uasset'
+[2018.10.06-03.39.50:077][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore02.uasset
+[2018.10.06-03.39.50:336][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/arvore03" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore03.uasset" SILENT=true
+[2018.10.06-03.39.50:364][791]LogSavePackage: Save=24.69ms
+[2018.10.06-03.39.50:364][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/arvore03D85A8CE448E8E47C8096D6B9627531C7.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore03.uasset'
+[2018.10.06-03.39.50:368][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore03.uasset
+[2018.10.06-03.39.50:777][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/arvore04" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore04.uasset" SILENT=true
+[2018.10.06-03.39.50:805][791]LogSavePackage: Save=25.39ms
+[2018.10.06-03.39.50:805][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/arvore0493048FE64087F9A7423EE6A21C9520D1.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore04.uasset'
+[2018.10.06-03.39.50:810][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore04.uasset
+[2018.10.06-03.39.51:087][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/arvore05" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore05.uasset" SILENT=true
+[2018.10.06-03.39.51:115][791]LogSavePackage: Save=25.11ms
+[2018.10.06-03.39.51:115][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/arvore058B8A21284DFCCA44CAA723A437F25FD9.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore05.uasset'
+[2018.10.06-03.39.51:120][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/arvore05.uasset
+[2018.10.06-03.39.51:887][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/lambert2" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/lambert2.uasset" SILENT=true
+[2018.10.06-03.39.51:910][791]LogSavePackage: Save=20.71ms
+[2018.10.06-03.39.51:910][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/lambert291A9E4FD458483623049358E0C6B8E07.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/lambert2.uasset'
+[2018.10.06-03.39.51:914][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/lambert2.uasset
+[2018.10.06-03.39.52:120][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/placa" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/placa.uasset" SILENT=true
+[2018.10.06-03.39.52:141][791]LogSavePackage: Save=18.48ms
+[2018.10.06-03.39.52:141][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/placaF094BAF544F9C6EB97DCBDA9D0C56D2E.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/placa.uasset'
+[2018.10.06-03.39.52:144][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/placa.uasset
+[2018.10.06-03.39.52:347][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/Texture" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Texture.uasset" SILENT=true
+[2018.10.06-03.39.52:369][791]LogSavePackage: Save=19.98ms
+[2018.10.06-03.39.52:369][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Texture46B97D15456C1665D39BA4911DB3FB08.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Texture.uasset'
+[2018.10.06-03.39.52:372][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Texture.uasset
+[2018.10.06-03.39.52:583][791]LogSavePackage: Save=17.27ms
+[2018.10.06-03.39.52:583][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Tree_Fir_FoliageB2AF867A4BE22607D91CF08667498E66.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Tree_Fir_Foliage.uasset'
+[2018.10.06-03.39.52:586][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Tree_Fir_Foliage.uasset
+[2018.10.06-03.39.52:785][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/Arvores/Tree_Fir_Wood" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Tree_Fir_Wood.uasset" SILENT=true
+[2018.10.06-03.39.52:804][791]LogSavePackage: Save=17.11ms
+[2018.10.06-03.39.52:804][791]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Tree_Fir_Wood3F8F05D2485A484E46CD74A1679CC4F2.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Tree_Fir_Wood.uasset'
+[2018.10.06-03.39.52:807][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/Arvores/Tree_Fir_Wood.uasset
+[2018.10.06-03.40.18:365][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.10.06-03.40.27:562][199]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.10.06-03.40.27:748][199]SourceControl: [master 5775031] objetos
+[2018.10.06-03.40.27:748][199]SourceControl:  14 files changed, 44 insertions(+)
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/128_2.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/128_3.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/Texture.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/Tree_Fir_Foliage.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/Tree_Fir_Wood.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/arvore01.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/arvore02.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/arvore03.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/arvore04.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/arvore05.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/lambert2.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  create mode 100644 Content/Objetos/Arvores/placa.uasset
+[2018.10.06-03.40.27:748][199]SourceControl:  rewrite Content/Samuel/Level01.umap (94%)
+[2018.10.06-03.40.27:757][199]SourceControl: Commited [master 5775031] objetos.
+[2018.10.06-03.42.41:777][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\chave01.fbx)
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: Material, ItemCount : 1
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.06-03.42.41:784][ 86]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2018.10.06-03.42.41:789][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\chave01.fbx
+[2018.10.06-03.42.41:795][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.43:033][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\chave01.fbx
+[2018.10.06-03.42.43:039][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.43:040][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Gold”
+[2018.10.06-03.42.43:040][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Gold”
+[2018.10.06-03.42.43:046][ 86]LogMaterial: Missing cached shader map for material Gold, compiling. 
+[2018.10.06-03.42.43:063][ 86]LogFbx: Warning: Triangulating static mesh Key
+[2018.10.06-03.42.43:078][ 86]LogStaticMesh: Criando malha estática chave01...
+[2018.10.06-03.42.43:081][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/chave01.chave01
+[2018.10.06-03.42.43:097][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.43:258][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\coroa01.fbx)
+[2018.10.06-03.42.43:273][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\coroa01.fbx
+[2018.10.06-03.42.43:293][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.43:293][ 86]LogFbx: Warning: Triangulating static mesh Crown
+[2018.10.06-03.42.43:321][ 86]LogStaticMesh: Criando malha estática coroa01...
+[2018.10.06-03.42.43:324][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/coroa01.coroa01
+[2018.10.06-03.42.43:338][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.43:475][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\emerald01.fbx)
+[2018.10.06-03.42.43:490][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\emerald01.fbx
+[2018.10.06-03.42.43:501][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.43:502][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Emerald”
+[2018.10.06-03.42.43:502][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Emerald”
+[2018.10.06-03.42.43:509][ 86]LogMaterial: Missing cached shader map for material Emerald, compiling. 
+[2018.10.06-03.42.43:533][ 86]LogFbx: Warning: Triangulating static mesh Emerald
+[2018.10.06-03.42.43:538][ 86]LogStaticMesh: Criando malha estática emerald01...
+[2018.10.06-03.42.43:539][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/emerald01.emerald01
+[2018.10.06-03.42.43:551][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.43:682][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\escudo01.fbx)
+[2018.10.06-03.42.43:695][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\escudo01.fbx
+[2018.10.06-03.42.43:706][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.43:707][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Wood_1”
+[2018.10.06-03.42.43:707][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Wood_1”
+[2018.10.06-03.42.43:714][ 86]LogMaterial: Missing cached shader map for material Wood_1, compiling. 
+[2018.10.06-03.42.43:740][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Stell”
+[2018.10.06-03.42.43:741][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Stell”
+[2018.10.06-03.42.43:748][ 86]LogMaterial: Missing cached shader map for material Stell, compiling. 
+[2018.10.06-03.42.43:775][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Wood_2”
+[2018.10.06-03.42.43:775][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Wood_2”
+[2018.10.06-03.42.43:782][ 86]LogMaterial: Missing cached shader map for material Wood_2, compiling. 
+[2018.10.06-03.42.43:809][ 86]LogFbx: Warning: Triangulating static mesh Shield
+[2018.10.06-03.42.43:853][ 86]LogStaticMesh: Criando malha estática escudo01...
+[2018.10.06-03.42.43:858][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/escudo01.escudo01
+[2018.10.06-03.42.43:870][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.44:011][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\espada01.fbx)
+[2018.10.06-03.42.44:025][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\espada01.fbx
+[2018.10.06-03.42.44:037][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.44:037][ 86]LogFbx: Warning: Triangulating static mesh Sword
+[2018.10.06-03.42.44:055][ 86]LogStaticMesh: Criando malha estática espada01...
+[2018.10.06-03.42.44:061][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/itens/espada01.espada01
+[2018.10.06-03.42.44:062][ 86]LogStaticMesh: Warning: espada01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.06-03.42.44:074][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.44:074][ 86]FBXImport: Warning: espada01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.06-03.42.44:215][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\moeda01.fbx)
+[2018.10.06-03.42.44:229][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\moeda01.fbx
+[2018.10.06-03.42.44:240][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.44:240][ 86]LogFbx: Warning: Triangulating static mesh Сoin
+[2018.10.06-03.42.44:253][ 86]LogStaticMesh: Criando malha estática moeda01...
+[2018.10.06-03.42.44:255][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/moeda01.moeda01
+[2018.10.06-03.42.44:256][ 86]LogStaticMesh: Warning: moeda01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.06-03.42.44:267][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.44:267][ 86]FBXImport: Warning: moeda01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.06-03.42.44:397][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\moeda02.fbx)
+[2018.10.06-03.42.44:411][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\moeda02.fbx
+[2018.10.06-03.42.44:423][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.44:424][ 86]LogFbx: Warning: Triangulating static mesh Bullion
+[2018.10.06-03.42.44:431][ 86]LogStaticMesh: Criando malha estática moeda02...
+[2018.10.06-03.42.44:436][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/moeda02.moeda02
+[2018.10.06-03.42.44:437][ 86]LogStaticMesh: Warning: moeda02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.06-03.42.44:449][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.44:449][ 86]FBXImport: Warning: moeda02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.06-03.42.44:582][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\moeda03.fbx)
+[2018.10.06-03.42.44:597][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\moeda03.fbx
+[2018.10.06-03.42.44:611][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.44:612][ 86]LogFbx: Warning: Triangulating static mesh Bullion3
+[2018.10.06-03.42.44:628][ 86]LogStaticMesh: Criando malha estática moeda03...
+[2018.10.06-03.42.44:639][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/itens/moeda03.moeda03
+[2018.10.06-03.42.44:639][ 86]LogStaticMesh: Warning: moeda03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.06-03.42.44:650][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.44:650][ 86]FBXImport: Warning: moeda03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.06-03.42.44:780][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\picareta01.fbx)
+[2018.10.06-03.42.44:796][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\picareta01.fbx
+[2018.10.06-03.42.44:806][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.44:807][ 86]LogFbx: Warning: Triangulating static mesh Pick
+[2018.10.06-03.42.44:829][ 86]LogStaticMesh: Criando malha estática picareta01...
+[2018.10.06-03.42.44:833][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/picareta01.picareta01
+[2018.10.06-03.42.44:845][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.44:978][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\potion01.fbx)
+[2018.10.06-03.42.44:992][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\potion01.fbx
+[2018.10.06-03.42.45:003][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.45:003][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Flask_Health”
+[2018.10.06-03.42.45:003][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Flask_Health”
+[2018.10.06-03.42.45:011][ 86]LogMaterial: Missing cached shader map for material Flask_Health, compiling. 
+[2018.10.06-03.42.45:039][ 86]LogFbx: Warning: Triangulating static mesh Elixir_Of_Health
+[2018.10.06-03.42.45:054][ 86]LogStaticMesh: Criando malha estática potion01...
+[2018.10.06-03.42.45:058][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/potion01.potion01
+[2018.10.06-03.42.45:070][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.45:199][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\potion02.fbx)
+[2018.10.06-03.42.45:214][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\potion02.fbx
+[2018.10.06-03.42.45:225][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.45:226][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Flask_Mana”
+[2018.10.06-03.42.45:226][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Flask_Mana”
+[2018.10.06-03.42.45:233][ 86]LogMaterial: Missing cached shader map for material Flask_Mana, compiling. 
+[2018.10.06-03.42.45:260][ 86]LogFbx: Warning: Triangulating static mesh Elixir_Of_Mana
+[2018.10.06-03.42.45:275][ 86]LogStaticMesh: Criando malha estática potion02...
+[2018.10.06-03.42.45:280][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/itens/potion02.potion02
+[2018.10.06-03.42.45:295][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.45:437][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby01.fbx)
+[2018.10.06-03.42.45:452][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby01.fbx
+[2018.10.06-03.42.45:463][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.45:464][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Ruby”
+[2018.10.06-03.42.45:464][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Ruby”
+[2018.10.06-03.42.45:470][ 86]LogMaterial: Missing cached shader map for material Ruby, compiling. 
+[2018.10.06-03.42.45:501][ 86]LogFbx: Warning: Triangulating static mesh Ruby
+[2018.10.06-03.42.45:513][ 86]LogStaticMesh: Criando malha estática ruby01...
+[2018.10.06-03.42.45:515][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/itens/ruby01.ruby01
+[2018.10.06-03.42.45:527][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.45:659][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby02.fbx)
+[2018.10.06-03.42.45:673][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby02.fbx
+[2018.10.06-03.42.45:686][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.45:686][ 86]LogFbx: Warning: Triangulating static mesh Сrystal_4
+[2018.10.06-03.42.45:711][ 86]LogStaticMesh: Criando malha estática ruby02...
+[2018.10.06-03.42.45:722][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/itens/ruby02.ruby02
+[2018.10.06-03.42.45:734][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.45:869][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby03.fbx)
+[2018.10.06-03.42.45:885][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby03.fbx
+[2018.10.06-03.42.45:901][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.45:902][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Stone”
+[2018.10.06-03.42.45:902][ 86]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/itens/Stone”
+[2018.10.06-03.42.45:910][ 86]LogMaterial: Missing cached shader map for material Stone, compiling. 
+[2018.10.06-03.42.45:940][ 86]LogFbx: Warning: Triangulating static mesh Сrystal_5
+[2018.10.06-03.42.45:969][ 86]LogStaticMesh: Criando malha estática ruby03...
+[2018.10.06-03.42.45:983][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/itens/ruby03.ruby03
+[2018.10.06-03.42.45:996][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.42.46:133][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby04.fbx)
+[2018.10.06-03.42.46:147][ 86]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\item\ruby04.fbx
+[2018.10.06-03.42.46:170][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.42.46:173][ 86]LogStaticMesh: Criando malha estática ruby04...
+[2018.10.06-03.42.46:177][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/itens/ruby04.ruby04
+[2018.10.06-03.42.46:191][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.44.51:467][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/chave01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/chave01.uasset" SILENT=true
+[2018.10.06-03.44.51:486][504]LogSavePackage: Save=17.36ms
+[2018.10.06-03.44.51:486][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/chave0172F199A64592436B23A61B8E4C6711F1.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/chave01.uasset'
+[2018.10.06-03.44.51:490][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/chave01.uasset
+[2018.10.06-03.44.51:652][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/coroa01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/coroa01.uasset" SILENT=true
+[2018.10.06-03.44.51:670][504]LogSavePackage: Save=16.05ms
+[2018.10.06-03.44.51:670][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/coroa0184C9384E4F1601E30FE626B4652C669D.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/coroa01.uasset'
+[2018.10.06-03.44.51:673][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/coroa01.uasset
+[2018.10.06-03.44.51:841][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Emerald" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Emerald.uasset" SILENT=true
+[2018.10.06-03.44.51:860][504]LogSavePackage: Save=16.88ms
+[2018.10.06-03.44.51:860][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/EmeraldC08CE7A748DDB6EE7835CFAD1FD4778E.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Emerald.uasset'
+[2018.10.06-03.44.51:863][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Emerald.uasset
+[2018.10.06-03.44.52:052][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/emerald01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/emerald01.uasset" SILENT=true
+[2018.10.06-03.44.52:073][504]LogSavePackage: Save=18.34ms
+[2018.10.06-03.44.52:073][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/emerald012289280C449B018C7B68498A1700ACF8.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/emerald01.uasset'
+[2018.10.06-03.44.52:077][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/emerald01.uasset
+[2018.10.06-03.44.52:241][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/escudo01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/escudo01.uasset" SILENT=true
+[2018.10.06-03.44.52:262][504]LogSavePackage: Save=18.43ms
+[2018.10.06-03.44.52:262][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/escudo01084B33BB4BFC720933C1B4A315B1DE28.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/escudo01.uasset'
+[2018.10.06-03.44.52:265][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/escudo01.uasset
+[2018.10.06-03.44.52:442][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/espada01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/espada01.uasset" SILENT=true
+[2018.10.06-03.44.52:465][504]LogSavePackage: Save=20.27ms
+[2018.10.06-03.44.52:465][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/espada01B5618550420764F54D24F2B4FA886F10.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/espada01.uasset'
+[2018.10.06-03.44.52:468][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/espada01.uasset
+[2018.10.06-03.44.52:649][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Flask_Health" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Flask_Health.uasset" SILENT=true
+[2018.10.06-03.44.52:670][504]LogSavePackage: Save=19.22ms
+[2018.10.06-03.44.52:670][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Flask_HealthEA83E1C847C59FB861952B811A09DBC2.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Flask_Health.uasset'
+[2018.10.06-03.44.52:673][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Flask_Health.uasset
+[2018.10.06-03.44.52:859][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Flask_Mana" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Flask_Mana.uasset" SILENT=true
+[2018.10.06-03.44.52:884][504]LogSavePackage: Save=23.04ms
+[2018.10.06-03.44.52:885][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Flask_ManaFFFFF6CD46E552A8A570E7AA95B1442D.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Flask_Mana.uasset'
+[2018.10.06-03.44.52:889][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Flask_Mana.uasset
+[2018.10.06-03.44.53:092][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Gold" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Gold.uasset" SILENT=true
+[2018.10.06-03.44.53:117][504]LogSavePackage: Save=23.09ms
+[2018.10.06-03.44.53:117][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Gold4DC04ACC4C99C46910A364BEFE6F3520.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Gold.uasset'
+[2018.10.06-03.44.53:120][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Gold.uasset
+[2018.10.06-03.44.53:286][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/moeda01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda01.uasset" SILENT=true
+[2018.10.06-03.44.53:305][504]LogSavePackage: Save=16.72ms
+[2018.10.06-03.44.53:305][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/moeda01A67AC4EA4DB4A7FD062256AB70F93E11.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda01.uasset'
+[2018.10.06-03.44.53:308][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda01.uasset
+[2018.10.06-03.44.53:484][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/moeda02" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda02.uasset" SILENT=true
+[2018.10.06-03.44.53:506][504]LogSavePackage: Save=19.61ms
+[2018.10.06-03.44.53:506][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/moeda024BCC1D424361497BF6BE6F8582316EC0.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda02.uasset'
+[2018.10.06-03.44.53:509][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda02.uasset
+[2018.10.06-03.44.53:697][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/moeda03" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda03.uasset" SILENT=true
+[2018.10.06-03.44.53:715][504]LogSavePackage: Save=15.98ms
+[2018.10.06-03.44.53:715][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/moeda03FD4894094FE82FDE84F83E85160AE0A0.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda03.uasset'
+[2018.10.06-03.44.53:718][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/moeda03.uasset
+[2018.10.06-03.44.53:894][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/picareta01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/picareta01.uasset" SILENT=true
+[2018.10.06-03.44.53:916][504]LogSavePackage: Save=19.70ms
+[2018.10.06-03.44.53:916][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/picareta01EACBC3E1466C8121A7307F8AA57D7CA9.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/picareta01.uasset'
+[2018.10.06-03.44.53:920][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/picareta01.uasset
+[2018.10.06-03.44.54:095][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/potion01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/potion01.uasset" SILENT=true
+[2018.10.06-03.44.54:114][504]LogSavePackage: Save=17.31ms
+[2018.10.06-03.44.54:115][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/potion01872906EE442311FE2B32698E70702404.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/potion01.uasset'
+[2018.10.06-03.44.54:119][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/potion01.uasset
+[2018.10.06-03.44.54:297][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/potion02" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/potion02.uasset" SILENT=true
+[2018.10.06-03.44.54:317][504]LogSavePackage: Save=17.27ms
+[2018.10.06-03.44.54:317][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/potion02A2FADC4241AB753C0B37C3B71A650015.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/potion02.uasset'
+[2018.10.06-03.44.54:320][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/potion02.uasset
+[2018.10.06-03.44.54:500][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Ruby" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Ruby.uasset" SILENT=true
+[2018.10.06-03.44.54:519][504]LogSavePackage: Save=17.37ms
+[2018.10.06-03.44.54:519][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Ruby8E91CB8741EDF5FF1FDFFBB70F50B72C.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Ruby.uasset'
+[2018.10.06-03.44.54:523][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Ruby.uasset
+[2018.10.06-03.44.54:698][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/ruby01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby01.uasset" SILENT=true
+[2018.10.06-03.44.54:717][504]LogSavePackage: Save=16.33ms
+[2018.10.06-03.44.54:717][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/ruby017073749C4384DF9E2F8A619CA6EDF7C9.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby01.uasset'
+[2018.10.06-03.44.54:721][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby01.uasset
+[2018.10.06-03.44.54:910][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/ruby02" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby02.uasset" SILENT=true
+[2018.10.06-03.44.54:930][504]LogSavePackage: Save=17.88ms
+[2018.10.06-03.44.54:930][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/ruby02B3F2CCB34488CC07E782C9987B5CA9C5.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby02.uasset'
+[2018.10.06-03.44.54:934][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby02.uasset
+[2018.10.06-03.44.55:109][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/ruby03" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby03.uasset" SILENT=true
+[2018.10.06-03.44.55:129][504]LogSavePackage: Save=17.35ms
+[2018.10.06-03.44.55:129][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/ruby03F79F27574125D4930F64E89792443E80.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby03.uasset'
+[2018.10.06-03.44.55:132][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby03.uasset
+[2018.10.06-03.44.55:307][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/ruby04" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby04.uasset" SILENT=true
+[2018.10.06-03.44.55:327][504]LogSavePackage: Save=17.53ms
+[2018.10.06-03.44.55:327][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/ruby04BEC665294946B00700485C8377EA12B2.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby04.uasset'
+[2018.10.06-03.44.55:330][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/ruby04.uasset
+[2018.10.06-03.44.55:511][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Stell" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Stell.uasset" SILENT=true
+[2018.10.06-03.44.55:533][504]LogSavePackage: Save=20.68ms
+[2018.10.06-03.44.55:533][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Stell4FD080354E8571BFCC535697E93A5090.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Stell.uasset'
+[2018.10.06-03.44.55:536][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Stell.uasset
+[2018.10.06-03.44.55:719][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Stone" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Stone.uasset" SILENT=true
+[2018.10.06-03.44.55:738][504]LogSavePackage: Save=15.90ms
+[2018.10.06-03.44.55:738][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/StoneC52826914ED3E05E989085B320E371C5.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Stone.uasset'
+[2018.10.06-03.44.55:741][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Stone.uasset
+[2018.10.06-03.44.55:921][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Wood_1" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Wood_1.uasset" SILENT=true
+[2018.10.06-03.44.55:940][504]LogSavePackage: Save=16.60ms
+[2018.10.06-03.44.55:940][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Wood_169A292DF42F5B512698FFCB99EA9BFAB.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Wood_1.uasset'
+[2018.10.06-03.44.55:943][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Wood_1.uasset
+[2018.10.06-03.44.56:137][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/itens/Wood_2" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Wood_2.uasset" SILENT=true
+[2018.10.06-03.44.56:157][504]LogSavePackage: Save=17.39ms
+[2018.10.06-03.44.56:157][504]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Wood_2AC53B7FF4D2065AD70A404B5726BCE17.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Wood_2.uasset'
+[2018.10.06-03.44.56:160][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/itens/Wood_2.uasset
+[2018.10.06-03.47.35:020][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra01.fbx)
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.06-03.47.35:026][ 27]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2018.10.06-03.47.35:031][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra01.fbx
+[2018.10.06-03.47.35:038][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.36:263][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra01.fbx
+[2018.10.06-03.47.36:271][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.36:271][ 27]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/pedras/Stone”
+[2018.10.06-03.47.36:272][ 27]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/pedras/Stone”
+[2018.10.06-03.47.36:277][ 27]LogMaterial: Missing cached shader map for material Stone, compiling. 
+[2018.10.06-03.47.36:295][ 27]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/pedras/Foliage”
+[2018.10.06-03.47.36:295][ 27]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/pedras/Foliage”
+[2018.10.06-03.47.36:300][ 27]LogMaterial: Missing cached shader map for material Foliage, compiling. 
+[2018.10.06-03.47.36:321][ 27]LogFbx: Warning: Triangulating static mesh Rocks_and_grass_1
+[2018.10.06-03.47.36:327][ 27]LogStaticMesh: Criando malha estática pedra01...
+[2018.10.06-03.47.36:346][ 27]LogStaticMesh: Built static mesh [0.02s] /Game/Objetos/pedras/pedra01.pedra01
+[2018.10.06-03.47.36:358][ 27]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.47.36:492][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra02.fbx)
+[2018.10.06-03.47.36:506][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra02.fbx
+[2018.10.06-03.47.36:517][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.36:518][ 27]LogFbx: Warning: Triangulating static mesh Stone_2
+[2018.10.06-03.47.36:537][ 27]LogStaticMesh: Criando malha estática pedra02...
+[2018.10.06-03.47.36:546][ 27]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/pedras/pedra02.pedra02
+[2018.10.06-03.47.36:558][ 27]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.47.36:686][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra03.fbx)
+[2018.10.06-03.47.36:701][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra03.fbx
+[2018.10.06-03.47.36:712][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.36:716][ 27]LogStaticMesh: Criando malha estática pedra03...
+[2018.10.06-03.47.36:721][ 27]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/pedras/pedra03.pedra03
+[2018.10.06-03.47.36:733][ 27]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.47.36:864][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra04.fbx)
+[2018.10.06-03.47.36:878][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra04.fbx
+[2018.10.06-03.47.36:890][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.36:891][ 27]LogStaticMesh: Criando malha estática pedra04...
+[2018.10.06-03.47.36:911][ 27]LogStaticMesh: Built static mesh [0.02s] /Game/Objetos/pedras/pedra04.pedra04
+[2018.10.06-03.47.36:925][ 27]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.47.37:056][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra05.fbx)
+[2018.10.06-03.47.37:071][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra05.fbx
+[2018.10.06-03.47.37:082][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.37:082][ 27]LogFbx: Warning: Triangulating static mesh Stone_4
+[2018.10.06-03.47.37:089][ 27]LogStaticMesh: Criando malha estática pedra05...
+[2018.10.06-03.47.37:092][ 27]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/pedras/pedra05.pedra05
+[2018.10.06-03.47.37:104][ 27]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.47.37:236][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra06.fbx)
+[2018.10.06-03.47.37:250][ 27]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\pedra\pedra06.fbx
+[2018.10.06-03.47.37:263][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.47.37:263][ 27]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/pedras/Wood_3”
+[2018.10.06-03.47.37:263][ 27]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/pedras/Wood_3”
+[2018.10.06-03.47.37:271][ 27]LogMaterial: Missing cached shader map for material Wood_3, compiling. 
+[2018.10.06-03.47.37:297][ 27]LogFbx: Warning: Triangulating static mesh Rocks_and_grass_2
+[2018.10.06-03.47.37:340][ 27]LogStaticMesh: Criando malha estática pedra06...
+[2018.10.06-03.47.37:358][ 27]LogStaticMesh: Built static mesh [0.02s] /Game/Objetos/pedras/pedra06.pedra06
+[2018.10.06-03.47.37:370][ 27]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.48.00:916][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/Foliage" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Foliage.uasset" SILENT=true
+[2018.10.06-03.48.00:939][631]LogSavePackage: Save=20.70ms
+[2018.10.06-03.48.00:939][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Foliage42CD1057430828FC3EEC75B0B36F7E7F.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Foliage.uasset'
+[2018.10.06-03.48.00:942][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Foliage.uasset
+[2018.10.06-03.48.01:107][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra01.uasset" SILENT=true
+[2018.10.06-03.48.01:126][631]LogSavePackage: Save=17.14ms
+[2018.10.06-03.48.01:126][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra01B69CB5374A972FDF09F19AAB70164A1C.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra01.uasset'
+[2018.10.06-03.48.01:130][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra01.uasset
+[2018.10.06-03.48.01:292][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra02" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra02.uasset" SILENT=true
+[2018.10.06-03.48.01:310][631]LogSavePackage: Save=16.37ms
+[2018.10.06-03.48.01:311][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra02DF1239964C96A70ECA8CD79741016CF0.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra02.uasset'
+[2018.10.06-03.48.01:313][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra02.uasset
+[2018.10.06-03.48.01:485][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra03" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra03.uasset" SILENT=true
+[2018.10.06-03.48.01:504][631]LogSavePackage: Save=16.58ms
+[2018.10.06-03.48.01:504][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra031A575A2B4A7D6D459648C3A9E2F80A02.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra03.uasset'
+[2018.10.06-03.48.01:507][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra03.uasset
+[2018.10.06-03.48.01:680][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra04" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra04.uasset" SILENT=true
+[2018.10.06-03.48.01:699][631]LogSavePackage: Save=16.84ms
+[2018.10.06-03.48.01:699][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra047B9F3F624C73D14BFB736F8191615753.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra04.uasset'
+[2018.10.06-03.48.01:702][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra04.uasset
+[2018.10.06-03.48.01:879][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra05" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra05.uasset" SILENT=true
+[2018.10.06-03.48.01:902][631]LogSavePackage: Save=20.45ms
+[2018.10.06-03.48.01:902][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra0542894E4B420D58FF05D43DA56E51EE14.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra05.uasset'
+[2018.10.06-03.48.01:906][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra05.uasset
+[2018.10.06-03.48.02:091][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra06" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra06.uasset" SILENT=true
+[2018.10.06-03.48.02:110][631]LogSavePackage: Save=17.20ms
+[2018.10.06-03.48.02:110][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra06682FFE3E4ADEF3C15C7D59902B52A435.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra06.uasset'
+[2018.10.06-03.48.02:113][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra06.uasset
+[2018.10.06-03.48.02:287][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/Stone" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Stone.uasset" SILENT=true
+[2018.10.06-03.48.02:305][631]LogSavePackage: Save=16.54ms
+[2018.10.06-03.48.02:305][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Stone7C16B7E04B7BC4D5873122B04E56F147.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Stone.uasset'
+[2018.10.06-03.48.02:308][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Stone.uasset
+[2018.10.06-03.48.02:482][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/Wood_3" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Wood_3.uasset" SILENT=true
+[2018.10.06-03.48.02:508][631]LogSavePackage: Save=24.57ms
+[2018.10.06-03.48.02:508][631]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Wood_3C180F18B4EDDBF5CC5A7B8ACB244AF5F.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Wood_3.uasset'
+[2018.10.06-03.48.02:512][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/Wood_3.uasset
+[2018.10.06-03.49.09:955][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\barril01.fbx)
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.06-03.49.09:961][461]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2018.10.06-03.49.09:966][461]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\barril01.fbx
+[2018.10.06-03.49.09:973][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.49.11:066][461]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\barril01.fbx
+[2018.10.06-03.49.11:073][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.49.11:073][461]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/madeira/Wood_2”
+[2018.10.06-03.49.11:074][461]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/madeira/Wood_2”
+[2018.10.06-03.49.11:080][461]LogMaterial: Missing cached shader map for material Wood_2, compiling. 
+[2018.10.06-03.49.11:099][461]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/madeira/Wood_1”
+[2018.10.06-03.49.11:099][461]LogLinker: Não é possível encontrar o arquivo “/Game/Objetos/madeira/Wood_1”
+[2018.10.06-03.49.11:105][461]LogMaterial: Missing cached shader map for material Wood_1, compiling. 
+[2018.10.06-03.49.11:126][461]LogFbx: Warning: Triangulating static mesh Barrel_Closed
+[2018.10.06-03.49.11:168][461]LogStaticMesh: Criando malha estática barril01...
+[2018.10.06-03.49.11:172][461]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/madeira/barril01.barril01
+[2018.10.06-03.49.11:188][461]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.49.11:360][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\barril02.fbx)
+[2018.10.06-03.49.11:373][461]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\barril02.fbx
+[2018.10.06-03.49.11:384][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.49.11:384][461]LogFbx: Warning: Triangulating static mesh Barrel_Open
+[2018.10.06-03.49.11:431][461]LogStaticMesh: Criando malha estática barril02...
+[2018.10.06-03.49.11:436][461]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/madeira/barril02.barril02
+[2018.10.06-03.49.11:448][461]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.49.11:580][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\bau_contin.fbx)
+[2018.10.06-03.49.11:596][461]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\bau_contin.fbx
+[2018.10.06-03.49.11:612][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.49.11:613][461]LogFbx: Warning: Triangulating static mesh Chest_Open_Cap
+[2018.10.06-03.49.11:637][461]LogStaticMesh: Criando malha estática bau_contin_Chest_Open_Cap...
+[2018.10.06-03.49.11:643][461]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/madeira/bau_contin_Chest_Open_Cap.bau_contin_Chest_Open_Cap
+[2018.10.06-03.49.11:649][461]LogFbx: Warning: Triangulating static mesh Chest_Open
+[2018.10.06-03.49.11:689][461]LogStaticMesh: Criando malha estática bau_contin_Chest_Open...
+[2018.10.06-03.49.11:699][461]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/madeira/bau_contin_Chest_Open.bau_contin_Chest_Open
+[2018.10.06-03.49.11:712][461]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.49.11:833][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\bau01.fbx)
+[2018.10.06-03.49.11:847][461]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\bau01.fbx
+[2018.10.06-03.49.11:859][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.49.11:859][461]LogFbx: Warning: Triangulating static mesh Chest_Closed
+[2018.10.06-03.49.11:917][461]LogStaticMesh: Criando malha estática bau01_Chest_Closed...
+[2018.10.06-03.49.11:931][461]LogStaticMesh: Built static mesh [0.01s] /Game/Objetos/madeira/bau01_Chest_Closed.bau01_Chest_Closed
+[2018.10.06-03.49.11:949][461]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.49.12:080][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\caixa01.fbx)
+[2018.10.06-03.49.12:095][461]LogFbx: Loading FBX Scene from C:\Users\victo\Desktop\veltur_demo\objetos\objetos de madeira\caixa01.fbx
+[2018.10.06-03.49.12:109][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-03.49.12:110][461]LogFbx: Warning: Triangulating static mesh Box
+[2018.10.06-03.49.12:133][461]LogStaticMesh: Criando malha estática caixa01_Box...
+[2018.10.06-03.49.12:137][461]LogStaticMesh: Built static mesh [0.00s] /Game/Objetos/madeira/caixa01_Box.caixa01_Box
+[2018.10.06-03.49.12:138][461]LogStaticMesh: Warning: caixa01_Box has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.06-03.49.12:149][461]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-03.49.12:149][461]FBXImport: Warning: caixa01_Box has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.06-03.49.37:920][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.49.42:174][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/madeira/barril01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/barril01.uasset" SILENT=true
+[2018.10.06-03.49.42:194][207]LogSavePackage: Save=17.81ms
+[2018.10.06-03.49.42:194][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/barril017597E6F34139745B49992C9D49B3D113.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/barril01.uasset'
+[2018.10.06-03.49.42:197][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/barril01.uasset
+[2018.10.06-03.49.42:359][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/madeira/barril02" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/barril02.uasset" SILENT=true
+[2018.10.06-03.49.42:378][207]LogSavePackage: Save=16.57ms
+[2018.10.06-03.49.42:378][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/barril02F48D8E5846D64814AB2AD4BA3CCB6CE0.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/barril02.uasset'
+[2018.10.06-03.49.42:381][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/barril02.uasset
+[2018.10.06-03.49.42:590][207]LogSavePackage: Save=17.47ms
+[2018.10.06-03.49.42:590][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/bau01_Chest_Closed6DDF9D8448C99A044D5E4C9EF8EEA6B7.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/bau01_Chest_Closed.uasset'
+[2018.10.06-03.49.42:594][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/bau01_Chest_Closed.uasset
+[2018.10.06-03.49.42:788][207]LogSavePackage: Save=16.54ms
+[2018.10.06-03.49.42:788][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/bau_contin_Chest_Open28A5D1714CB9BAD57CB7ACAD6261770A.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/bau_contin_Chest_Open.uasset'
+[2018.10.06-03.49.42:791][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/bau_contin_Chest_Open.uasset
+[2018.10.06-03.49.42:985][207]LogSavePackage: Save=16.74ms
+[2018.10.06-03.49.42:986][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/bau_contin_Chest_Open_CapBE6189514DEFC007E2C8E0B9631548BA.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/bau_contin_Chest_Open_Cap.uasset'
+[2018.10.06-03.49.42:989][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/bau_contin_Chest_Open_Cap.uasset
+[2018.10.06-03.49.43:159][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/madeira/caixa01_Box" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/caixa01_Box.uasset" SILENT=true
+[2018.10.06-03.49.43:185][207]LogSavePackage: Save=22.57ms
+[2018.10.06-03.49.43:185][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/caixa01_Box616D20F74C0BFFFBBA24FCAB8C4BB6BA.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/caixa01_Box.uasset'
+[2018.10.06-03.49.43:189][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/caixa01_Box.uasset
+[2018.10.06-03.49.43:353][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/madeira/Wood_1" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/Wood_1.uasset" SILENT=true
+[2018.10.06-03.49.43:372][207]LogSavePackage: Save=16.70ms
+[2018.10.06-03.49.43:372][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Wood_195518C724D5A293A43BDD19024A8C460.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/Wood_1.uasset'
+[2018.10.06-03.49.43:375][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/Wood_1.uasset
+[2018.10.06-03.49.43:548][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/madeira/Wood_2" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/Wood_2.uasset" SILENT=true
+[2018.10.06-03.49.43:571][207]LogSavePackage: Save=20.01ms
+[2018.10.06-03.49.43:571][207]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Wood_2C463CDC44EAD8DD8A6BC5BACCA4218E4.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/Wood_2.uasset'
+[2018.10.06-03.49.43:574][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/madeira/Wood_2.uasset
+[2018.10.06-03.50.04:450][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.06-03.50.06:435][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.06-03.50.07:215][295]Cmd: DELETE
+[2018.10.06-03.50.07:215][295]Cmd: ACTOR DELETE
+[2018.10.06-03.50.07:217][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.06-03.50.07:232][295]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.10.06-03.50.08:781][471]LogActorFactory: Actor Factory created Cube
+[2018.10.06-03.50.09:937][601]LogActorFactory: Actor Factory created Cube
+[2018.10.06-03.50.16:156][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.06-03.50.47:303][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.06-03.51.09:946][236]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.10.06-03.51.21:010][285]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.51.22:035][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.06-03.51.35:470][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.51.37:088][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.10.06-03.51.43:995][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.51.47:870][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.10.06-03.51.52:139][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.52.05:072][ 89]LogActorFactory: Actor Factory created arvore01
+[2018.10.06-03.52.06:947][246]LogActorFactory: Actor Factory created arvore01
+[2018.10.06-03.52.08:042][329]LogActorFactory: Actor Factory created arvore01
+[2018.10.06-03.52.10:218][511]LogActorFactory: Actor Factory created arvore01
+[2018.10.06-03.52.16:451][ 12]LogActorFactory: Actor Factory created pedra02
+[2018.10.06-03.52.17:914][125]LogActorFactory: Actor Factory created pedra02
+[2018.10.06-03.52.24:667][748]LogActorFactory: Actor Factory created pedra04
+[2018.10.06-03.52.26:822][927]LogActorFactory: Actor Factory created pedra04
+[2018.10.06-03.52.27:988][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.06-03.52.53:789][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.52.56:405][609]LogActorFactory: Actor Factory created pedra06
+[2018.10.06-03.52.57:638][703]LogActorFactory: Actor Factory created pedra06
+[2018.10.06-03.53.07:174][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.53.11:257][987]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.10.06-03.53.15:377][378]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.06-03.53.21:078][894]LogActorFactory: Actor Factory created pedra01
+[2018.10.06-03.53.22:650][ 36]LogActorFactory: Actor Factory created pedra01
+[2018.10.06-03.53.26:222][271]LogRenderer: Reallocating scene render targets to support 1208x548 Format 9 NumSamples 1 (Frame:1).
+[2018.10.06-03.53.31:643][558]LogRenderer: Reallocating scene render targets to support 1208x556 Format 9 NumSamples 1 (Frame:280).
+[2018.10.06-03.53.32:237][600]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:284).
+[2018.10.06-03.53.42:396][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pedra06)
+[2018.10.06-03.53.53:163][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra01.uasset" SILENT=true
+[2018.10.06-03.53.53:189][328]LogSavePackage: Save=16.91ms
+[2018.10.06-03.53.53:189][328]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra014EB67A294583829C28AD8D960BD842AF.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra01.uasset'
+[2018.10.06-03.53.53:192][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra01.uasset
+[2018.10.06-03.53.53:211][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/pedras/pedra06" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra06.uasset" SILENT=true
+[2018.10.06-03.53.53:236][328]LogSavePackage: Save=17.09ms
+[2018.10.06-03.53.53:236][328]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/pedra06F05F341E4A87FB6654B8E3B8ECD7283D.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra06.uasset'
+[2018.10.06-03.53.53:239][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Objetos/pedras/pedra06.uasset
+[2018.10.06-03.53.53:325][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Samuel/Level01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-03.53.53:392][328]LogSavePackage: Save=46.09ms
+[2018.10.06-03.53.53:392][328]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Level01D23FF01B49810FDDE7758EA7307C5A1E.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap'
+[2018.10.06-03.53.53:395][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap
+[2018.10.06-03.53.53:422][328]LogFileHelpers: Saving map 'Level01' took 0.179
+[2018.10.06-03.53.59:140][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pedra02)
+[2018.10.06-03.54.10:375][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.54.32:223][968]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-03.54.32:828][  2]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.54.51:006][259]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.54.56:284][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.55.21:133][616]LogEditorViewport: Clicking on Actor (LMB): Brush (Escada Linear Pincel)
+[2018.10.06-03.55.22:294][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.56.14:335][353]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.56.20:374][771]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-03.56.32:225][653]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.56.36:972][972]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-03.56.37:712][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.56.40:122][189]Cmd: DELETE
+[2018.10.06-03.56.40:122][189]Cmd: ACTOR DELETE
+[2018.10.06-03.56.40:123][189]LogEditorActor: Deleted Actor: Brush
+[2018.10.06-03.56.40:144][189]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.10.06-03.56.53:745][230]LogActorFactory: Actor Factory created caixa01_Box
+[2018.10.06-03.56.54:732][325]LogActorFactory: Actor Factory created caixa01_Box
+[2018.10.06-03.57.14:134][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (caixa01_Box2)
+[2018.10.06-03.57.21:865][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (caixa01_Box3)
+[2018.10.06-03.57.25:725][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (caixa01_Box6)
+[2018.10.06-03.57.28:843][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.57.30:400][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (caixa01_Box)
+[2018.10.06-03.57.43:921][744]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.57.46:322][907]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.57.51:647][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.58.00:720][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.58.06:785][282]LogActorFactory: Actor Factory created arvore02
+[2018.10.06-03.58.07:709][342]LogActorFactory: Actor Factory created arvore02
+[2018.10.06-03.58.09:819][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.10.06-03.58.11:016][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore02)
+[2018.10.06-03.58.26:825][714]LogActorFactory: Actor Factory created placa
+[2018.10.06-03.58.27:610][774]LogActorFactory: Actor Factory created placa
+[2018.10.06-03.58.30:780][989]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.58.37:800][448]LogActorFactory: Actor Factory created arvore04
+[2018.10.06-03.58.38:949][531]LogActorFactory: Actor Factory created arvore04
+[2018.10.06-03.58.50:790][379]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.06-03.59.11:018][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore04)
+[2018.10.06-03.59.11:632][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore04)
+[2018.10.06-03.59.16:842][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore04)
+[2018.10.06-03.59.17:495][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore04)
+[2018.10.06-03.59.23:144][665]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube7)
+[2018.10.06-03.59.24:258][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.59.25:521][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pedra5)
+[2018.10.06-03.59.36:462][596]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.59.44:429][142]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-03.59.45:884][247]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-03.59.47:193][336]Cmd: DELETE
+[2018.10.06-03.59.47:193][336]Cmd: ACTOR DELETE
+[2018.10.06-03.59.47:194][336]LogEditorActor: Deleted Actor: Brush
+[2018.10.06-03.59.47:213][336]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.06-03.59.53:911][794]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-03.59.54:996][871]Cmd: DELETE
+[2018.10.06-03.59.54:996][871]Cmd: ACTOR DELETE
+[2018.10.06-03.59.54:997][871]LogEditorActor: Deleted Actor: Brush
+[2018.10.06-03.59.55:014][871]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.10.06-04.00.04:328][549]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-04.00.10:979][ 26]Cmd: DELETE
+[2018.10.06-04.00.10:979][ 26]Cmd: ACTOR DELETE
+[2018.10.06-04.00.10:980][ 26]LogEditorActor: Deleted Actor: Brush
+[2018.10.06-04.00.11:003][ 26]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.10.06-04.00.20:026][632]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.06-04.00.33:329][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-04.00.37:735][904]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-04.00.47:101][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.10.06-04.00.57:257][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-04.01.19:054][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore02)
+[2018.10.06-04.01.29:255][465]LogActorFactory: Actor Factory created arvore03
+[2018.10.06-04.01.30:544][563]LogActorFactory: Actor Factory created arvore03
+[2018.10.06-04.01.35:348][914]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-04.03.52:894][880]LogSavePackage: Save=143.77ms
+[2018.10.06-04.03.52:894][880]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Level01_Auto1B78956F14D1222119053A48A1875D962.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Autosaves/Game/Samuel/Level01_Auto1.umap'
+[2018.10.06-04.03.52:895][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Autosaves/Game/Samuel/Level01_Auto1.umap
+[2018.10.06-04.03.52:898][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Samuel/Level01' took 0.175
+[2018.10.06-04.03.52:898][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2018.10.06-04.26.15:871][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\veltur.fbx)
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: NodeAttribute, ItemCount : 41
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: Model, ItemCount : 43
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: Deformer, ItemCount : 36
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: AnimationCurveNode, ItemCount : 43
+[2018.10.06-04.26.15:891][882]LogFbx: ItemName: AnimationCurve, ItemCount : 228
+[2018.10.06-04.26.15:903][882]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\veltur.fbx
+[2018.10.06-04.26.15:949][882]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.26.19:462][882]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\veltur.fbx
+[2018.10.06-04.26.19:487][882]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.26.19:491][882]LogFbx: =================================================
+[2018.10.06-04.26.19:491][882]LogFbx: Dumping Node START [default] 
+[2018.10.06-04.26.19:491][882]LogFbx: 	Total Deformer Count 522839264.
+[2018.10.06-04.26.19:491][882]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.06-04.26.19:491][882]LogFbx: =================================================
+[2018.10.06-04.26.19:491][882]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.06-04.26.19:491][882]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.06-04.26.19:491][882]LogFbx: Dumping Node END [default]
+[2018.10.06-04.26.19:491][882]LogFbx: =================================================
+[2018.10.06-04.26.19:491][882]LogFbx: Dumping Node START [pCube14] 
+[2018.10.06-04.26.19:491][882]LogFbx: 	Total Deformer Count 522839264.
+[2018.10.06-04.26.19:491][882]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.06-04.26.19:491][882]LogFbx: =================================================
+[2018.10.06-04.26.19:492][882]LogFbx: 	Attribute (pCube14mesh) Type (4).
+[2018.10.06-04.26.19:492][882]LogFbx: 		[Node Attribute Child 1] pCube14 (Type Mesh).
+[2018.10.06-04.26.19:492][882]LogFbx: Dumping Node END [pCube14]
+[2018.10.06-04.26.19:492][882]LogFbx: =================================================
+[2018.10.06-04.26.19:492][882]LogFbx: Dumping Node START [default] 
+[2018.10.06-04.26.19:492][882]LogFbx: 	Total Deformer Count 522845760.
+[2018.10.06-04.26.19:492][882]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.06-04.26.19:492][882]LogFbx: =================================================
+[2018.10.06-04.26.19:492][882]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.06-04.26.19:492][882]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.06-04.26.19:492][882]LogFbx: Dumping Node END [default]
+[2018.10.06-04.26.19:492][882]LogFbx: =================================================
+[2018.10.06-04.26.19:492][882]LogFbx: Dumping Node START [pCube14] 
+[2018.10.06-04.26.19:492][882]LogFbx: 	Total Deformer Count 522837360.
+[2018.10.06-04.26.19:492][882]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.06-04.26.19:492][882]LogFbx: =================================================
+[2018.10.06-04.26.19:492][882]LogFbx: 	Attribute (pCube14mesh) Type (4).
+[2018.10.06-04.26.19:492][882]LogFbx: 		[Node Attribute Child 1] pCube14 (Type Mesh).
+[2018.10.06-04.26.19:492][882]LogFbx: Dumping Node END [pCube14]
+[2018.10.06-04.26.19:495][882]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node pCube14 : The relative matrices do not match
+[2018.10.06-04.26.19:496][882]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.10.06-04.26.19:496][882]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - pCube14
+[2018.10.06-04.26.19:496][882]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.10.06-04.26.19:499][882]LogFbx: Triangulating skeletal mesh pCube14
+[2018.10.06-04.26.19:818][882]LogFbx: Warning: Bones digested - 41  Depth of hierarchy - 12
+[2018.10.06-04.26.19:877][882]LogSkeletalMesh: Section 0: 1568 vertices, 34 active bones
+[2018.10.06-04.26.19:880][882]LogSkeletalMesh: Section 0: Material=0, 2396 triangles
+[2018.10.06-04.26.19:885][882]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/personagem/veltur_Skeleton”
+[2018.10.06-04.26.19:886][882]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/personagem/veltur_Skeleton”
+[2018.10.06-04.26.19:890][882]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/personagem/veltur_PhysicsAsset”
+[2018.10.06-04.26.19:890][882]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/personagem/veltur_PhysicsAsset”
+[2018.10.06-04.26.19:932][882]FBXImport: Warning: Ignorando a malha default devido à falta de pesos. 
+[2018.10.06-04.26.19:932][882]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.06-04.26.19:932][882]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.10.06-04.26.32:283][191]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\final_initialShadingGroup_color.tga)
+[2018.10.06-04.26.32:419][191]LogTexture: Display: Building textures: final_initialShadingGroup_color (AutoDXT, 2048X2048)
+[2018.10.06-04.26.43:669][714]LogMaterial: Missing cached shader map for material veltur_material, compiling. 
+[2018.10.06-04.26.49:601][823]LogSavePackage: Save=214.04ms
+[2018.10.06-04.26.49:602][823]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/final_initialShadingGroup_color765FAEB64A66C518FAB9CDA3BFF1B696.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/final_initialShadingGroup_color.uasset'
+[2018.10.06-04.26.49:605][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/final_initialShadingGroup_color.uasset
+[2018.10.06-04.26.49:842][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/personagem/veltur" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur.uasset" SILENT=true
+[2018.10.06-04.26.49:868][823]LogSavePackage: Save=23.32ms
+[2018.10.06-04.26.49:868][823]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/velturE2D6BAFD4895760EFEA95F9D453AA7D0.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur.uasset'
+[2018.10.06-04.26.49:871][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur.uasset
+[2018.10.06-04.26.50:106][823]LogSavePackage: Save=16.84ms
+[2018.10.06-04.26.50:106][823]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/veltur_material9FFEA6DD4BBC69CEC15BB4949A1BAA0E.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_material.uasset'
+[2018.10.06-04.26.50:109][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_material.uasset
+[2018.10.06-04.26.50:287][823]LogSavePackage: Save=12.47ms
+[2018.10.06-04.26.50:287][823]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/veltur_PhysicsAsset45676E55407F72224DEF728D32818572.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_PhysicsAsset.uasset'
+[2018.10.06-04.26.50:290][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_PhysicsAsset.uasset
+[2018.10.06-04.26.50:459][823]LogSavePackage: Save=8.02ms
+[2018.10.06-04.26.50:460][823]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/veltur_Skeleton0AAB8B1E459AB9E4DDE9C9AA22ADE2B9.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_Skeleton.uasset'
+[2018.10.06-04.26.50:463][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_Skeleton.uasset
+[2018.10.06-04.26.50:737][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Samuel/Level01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-04.26.50:899][823]LogSavePackage: Save=141.20ms
+[2018.10.06-04.26.50:900][823]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Level017A80DC6245367B1A303FD7AE6DC380B2.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap'
+[2018.10.06-04.26.50:906][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap
+[2018.10.06-04.26.50:939][823]LogFileHelpers: Saving map 'Level01' took 0.306
+[2018.10.06-04.26.59:930][281]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.10.06-04.26.59:976][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-04.27.00:097][281]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.06-04.27.00:475][281]LogSlate: Took 0.006255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.06-04.27.00:563][281]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0012 seconds. Added 1 classes and 0 folders.
+[2018.10.06-04.27.06:592][827]LogMaterial: Warning: Material /Game/Fabio/veltur/personagem/veltur_material.veltur_material needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.06-04.27.06:595][827]LogMaterial: Missing cached shader map for material veltur_material, compiling. 
+[2018.10.06-04.27.47:721][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/personagem/veltur" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur.uasset" SILENT=true
+[2018.10.06-04.27.47:753][672]LogSavePackage: Save=22.60ms
+[2018.10.06-04.27.47:753][672]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/velturEBC79C344D4549031133BB9BB079C5F6.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur.uasset'
+[2018.10.06-04.27.47:756][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur.uasset
+[2018.10.06-04.27.47:777][672]LogSavePackage: Save=8.24ms
+[2018.10.06-04.27.47:777][672]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/veltur_material950A320545A487B04CFAAEA87414A367.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_material.uasset'
+[2018.10.06-04.27.47:780][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/personagem/veltur_material.uasset
+[2018.10.06-04.27.57:684][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Death.fbx)
+[2018.10.06-04.27.57:698][ 48]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.06-04.27.57:699][ 48]LogFbx: ItemName: Model, ItemCount : 41
+[2018.10.06-04.27.57:699][ 48]LogFbx: ItemName: NodeAttribute, ItemCount : 41
+[2018.10.06-04.27.57:699][ 48]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.06-04.27.57:699][ 48]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.06-04.27.57:699][ 48]LogFbx: ItemName: AnimationCurveNode, ItemCount : 36
+[2018.10.06-04.27.57:699][ 48]LogFbx: ItemName: AnimationCurve, ItemCount : 207
+[2018.10.06-04.27.57:709][ 48]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Death.fbx
+[2018.10.06-04.27.57:737][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.28.01:488][ 48]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Death.fbx
+[2018.10.06-04.28.01:508][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.28.01:511][ 48]LogFbx: SortedLinks :(0) Hips
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(1) Spine
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(2) Spine1
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(3) Spine2
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(4) Neck
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(5) Head
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(19) RightShoulder
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(20) RightArm
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(21) RightForeArm
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(22) RightHand
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(23) RightHandThumb1
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(24) RightHandThumb2
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(25) RightHandThumb3
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(26) RightHandThumb4
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(27) RightHandIndex1
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(28) RightHandIndex2
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(29) RightHandIndex3
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(30) RightHandIndex4
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(31) LeftUpLeg
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(32) LeftLeg
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(33) LeftFoot
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(34) LeftToeBase
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(35) LeftToe_End
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(36) RightUpLeg
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(37) RightLeg
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(38) RightFoot
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(39) RightToeBase
+[2018.10.06-04.28.01:512][ 48]LogFbx: SortedLinks :(40) RightToe_End
+[2018.10.06-04.28.01:513][ 48]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.06-04.28.01:520][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Death”
+[2018.10.06-04.28.01:520][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Death”
+[2018.10.06-04.28.01:733][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Fabio/veltur/animation/Death.Death
+[2018.10.06-04.28.01:949][ 48]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Idle.fbx)
+[2018.10.06-04.28.01:968][ 48]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Idle.fbx
+[2018.10.06-04.28.02:011][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.28.02:013][ 48]LogFbx: SortedLinks :(0) Hips
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(1) Spine
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(2) Spine1
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(3) Spine2
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(4) Neck
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(5) Head
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(19) RightShoulder
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(20) RightArm
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(21) RightForeArm
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(22) RightHand
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(23) RightHandThumb1
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(24) RightHandThumb2
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(25) RightHandThumb3
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(26) RightHandThumb4
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(27) RightHandIndex1
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(28) RightHandIndex2
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(29) RightHandIndex3
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(30) RightHandIndex4
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(31) LeftUpLeg
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(32) LeftLeg
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(33) LeftFoot
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(34) LeftToeBase
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(35) LeftToe_End
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(36) RightUpLeg
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(37) RightLeg
+[2018.10.06-04.28.02:014][ 48]LogFbx: SortedLinks :(38) RightFoot
+[2018.10.06-04.28.02:015][ 48]LogFbx: SortedLinks :(39) RightToeBase
+[2018.10.06-04.28.02:015][ 48]LogFbx: SortedLinks :(40) RightToe_End
+[2018.10.06-04.28.02:015][ 48]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.06-04.28.02:019][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Idle”
+[2018.10.06-04.28.02:019][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Idle”
+[2018.10.06-04.28.02:241][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Fabio/veltur/animation/Idle.Idle
+[2018.10.06-04.28.02:348][ 48]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Running.fbx)
+[2018.10.06-04.28.02:359][ 48]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Running.fbx
+[2018.10.06-04.28.02:378][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(0) Hips
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(1) Spine
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(2) Spine1
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(3) Spine2
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(4) Neck
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(5) Head
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(19) RightShoulder
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(20) RightArm
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(21) RightForeArm
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(22) RightHand
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(23) RightHandThumb1
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(24) RightHandThumb2
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(25) RightHandThumb3
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(26) RightHandThumb4
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(27) RightHandIndex1
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(28) RightHandIndex2
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(29) RightHandIndex3
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(30) RightHandIndex4
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(31) LeftUpLeg
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(32) LeftLeg
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(33) LeftFoot
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(34) LeftToeBase
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(35) LeftToe_End
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(36) RightUpLeg
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(37) RightLeg
+[2018.10.06-04.28.02:380][ 48]LogFbx: SortedLinks :(38) RightFoot
+[2018.10.06-04.28.02:381][ 48]LogFbx: SortedLinks :(39) RightToeBase
+[2018.10.06-04.28.02:381][ 48]LogFbx: SortedLinks :(40) RightToe_End
+[2018.10.06-04.28.02:381][ 48]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.06-04.28.02:382][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Running”
+[2018.10.06-04.28.02:382][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Running”
+[2018.10.06-04.28.02:486][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Fabio/veltur/animation/Running.Running
+[2018.10.06-04.28.02:593][ 48]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Slash.fbx)
+[2018.10.06-04.28.02:604][ 48]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Slash.fbx
+[2018.10.06-04.28.02:625][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(0) Hips
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(1) Spine
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(2) Spine1
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(3) Spine2
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(4) Neck
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(5) Head
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(19) RightShoulder
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(20) RightArm
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(21) RightForeArm
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(22) RightHand
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(23) RightHandThumb1
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(24) RightHandThumb2
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(25) RightHandThumb3
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(26) RightHandThumb4
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(27) RightHandIndex1
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(28) RightHandIndex2
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(29) RightHandIndex3
+[2018.10.06-04.28.02:627][ 48]LogFbx: SortedLinks :(30) RightHandIndex4
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(31) LeftUpLeg
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(32) LeftLeg
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(33) LeftFoot
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(34) LeftToeBase
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(35) LeftToe_End
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(36) RightUpLeg
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(37) RightLeg
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(38) RightFoot
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(39) RightToeBase
+[2018.10.06-04.28.02:628][ 48]LogFbx: SortedLinks :(40) RightToe_End
+[2018.10.06-04.28.02:628][ 48]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.06-04.28.02:630][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Slash”
+[2018.10.06-04.28.02:630][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Slash”
+[2018.10.06-04.28.02:932][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Fabio/veltur/animation/Slash.Slash
+[2018.10.06-04.28.03:041][ 48]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Walking.fbx)
+[2018.10.06-04.28.03:051][ 48]LogFbx: Loading FBX Scene from D:\OCTOPUS\projeto alunos veltur\aluno\fabio\unreal\animações\Walking.fbx
+[2018.10.06-04.28.03:070][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(0) Hips
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(1) Spine
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(2) Spine1
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(3) Spine2
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(4) Neck
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(5) Head
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(19) RightShoulder
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(20) RightArm
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(21) RightForeArm
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(22) RightHand
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(23) RightHandThumb1
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(24) RightHandThumb2
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(25) RightHandThumb3
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(26) RightHandThumb4
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(27) RightHandIndex1
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(28) RightHandIndex2
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(29) RightHandIndex3
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(30) RightHandIndex4
+[2018.10.06-04.28.03:072][ 48]LogFbx: SortedLinks :(31) LeftUpLeg
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(32) LeftLeg
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(33) LeftFoot
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(34) LeftToeBase
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(35) LeftToe_End
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(36) RightUpLeg
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(37) RightLeg
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(38) RightFoot
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(39) RightToeBase
+[2018.10.06-04.28.03:073][ 48]LogFbx: SortedLinks :(40) RightToe_End
+[2018.10.06-04.28.03:073][ 48]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.06-04.28.03:075][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Walking”
+[2018.10.06-04.28.03:075][ 48]LogLinker: Não é possível encontrar o arquivo “/Game/Fabio/veltur/animation/Walking”
+[2018.10.06-04.28.03:179][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Fabio/veltur/animation/Walking.Walking
+[2018.10.06-04.28.05:932][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/animation/Death" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Death.uasset" SILENT=true
+[2018.10.06-04.28.05:956][115]LogSavePackage: Save=20.76ms
+[2018.10.06-04.28.05:956][115]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Death6E4BB3D64183449144CD33A3113F9E32.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Death.uasset'
+[2018.10.06-04.28.05:959][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Death.uasset
+[2018.10.06-04.28.06:137][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/animation/Idle" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Idle.uasset" SILENT=true
+[2018.10.06-04.28.06:167][115]LogSavePackage: Save=27.43ms
+[2018.10.06-04.28.06:167][115]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/IdleBE6B3AFA406C48C3B6657489F47C3A10.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Idle.uasset'
+[2018.10.06-04.28.06:171][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Idle.uasset
+[2018.10.06-04.28.06:373][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/animation/Running" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Running.uasset" SILENT=true
+[2018.10.06-04.28.06:393][115]LogSavePackage: Save=16.65ms
+[2018.10.06-04.28.06:393][115]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Running57FFC893498E10422AF523829713A8A1.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Running.uasset'
+[2018.10.06-04.28.06:396][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Running.uasset
+[2018.10.06-04.28.06:589][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/animation/Slash" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Slash.uasset" SILENT=true
+[2018.10.06-04.28.06:617][115]LogSavePackage: Save=25.38ms
+[2018.10.06-04.28.06:617][115]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/SlashA087C15D424235BE7543D89F3999F102.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Slash.uasset'
+[2018.10.06-04.28.06:621][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Slash.uasset
+[2018.10.06-04.28.06:809][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/animation/Walking" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Walking.uasset" SILENT=true
+[2018.10.06-04.28.06:831][115]LogSavePackage: Save=20.21ms
+[2018.10.06-04.28.06:831][115]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Walking84D44B644CBE65029D3F46B5D80C2B8C.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Walking.uasset'
+[2018.10.06-04.28.06:835][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/Walking.uasset
+[2018.10.06-04.28.07:981][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.10.06-04.28.08:016][156]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.10.06-04.28.08:515][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.06-04.29.07:546][329]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.10.06-04.29.19:576][940]LogSavePackage: Save=22.61ms
+[2018.10.06-04.29.19:576][940]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/esquema_veltur2A48982C42E3E30D4D5D38891784F198.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/esquema/esquema_veltur.uasset'
+[2018.10.06-04.29.19:579][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/esquema/esquema_veltur.uasset
+[2018.10.06-04.29.34:270][782]LogSavePackage: Save=27.07ms
+[2018.10.06-04.29.34:270][782]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/programação_velturCB25A636401F258ADA3A34B6A9820778.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/programação/programação_veltur.uasset'
+[2018.10.06-04.29.34:273][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/programação/programação_veltur.uasset
+[2018.10.06-04.30.26:437][956]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.10.06-04.30.26:475][956]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.10.06-04.30.26:829][956]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.06-04.31.48:660][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabio/veltur/animation/i_w_r" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/i_w_r.uasset" SILENT=true
+[2018.10.06-04.31.48:680][879]LogSavePackage: Save=17.53ms
+[2018.10.06-04.31.48:680][879]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/i_w_rBE8FCCDF4CD4D4E13BAC20BD10FBAB3C.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/i_w_r.uasset'
+[2018.10.06-04.31.48:683][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/animation/i_w_r.uasset
+[2018.10.06-04.31.55:713][406]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.10.06-04.31.56:326][406]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 113 classes and 0 folders.
+[2018.10.06-04.31.57:396][406]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.10.06-04.31.57:691][406]LogSlate: Took 0.007228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.06-04.31.57:827][406]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.06-04.32.15:041][345]BlueprintLog: New page: Compilar esquema_veltur
+[2018.10.06-04.32.45:879][800]LogSavePackage: Save=29.53ms
+[2018.10.06-04.32.45:879][800]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/esquema_veltur05DC9DC7470A3B078343FB8103D50DDE.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/esquema/esquema_veltur.uasset'
+[2018.10.06-04.32.45:882][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Fabio/veltur/esquema/esquema_veltur.uasset
+[2018.10.06-04.35.04:330][714]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.10.06-04.35.14:290][714]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.10.06-04.35.14:743][714]SourceControl: [master 6a51b4a] teste03
+[2018.10.06-04.35.14:743][714]SourceControl:  50 files changed, 0 insertions(+), 0 deletions(-)
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Death.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Idle.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Running.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Slash.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Walking.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/i_w_r.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/esquema/esquema_veltur.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/final_initialShadingGroup_color.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur_PhysicsAsset.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur_Skeleton.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur_material.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Objetos/itens/Emerald.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Objetos/itens/Flask_Health.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Objetos/itens/Flask_Mana.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Objetos/itens/Gold.uasset
+[2018.10.06-04.35.14:743][714]SourceControl:  create mode 100644 Content/Objetos/itens/Ruby.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/Stell.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/Stone.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/Wood_1.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/Wood_2.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/chave01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/coroa01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/emerald01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/escudo01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/espada01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/moeda01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/moeda02.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/moeda03.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/picareta01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/potion01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/potion02.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby02.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby03.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby04.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/Wood_1.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/Wood_2.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/barril01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/barril02.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/bau01_Chest_Closed.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/bau_contin_Chest_Open.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/bau_contin_Chest_Open_Cap.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/madeira/caixa01_Box.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/pedras/Foliage.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra01.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra02.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra03.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra04.uasset
+[2018.10.06-04.35.14:744][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra05.uasset
+[2018.10.06-04.35.14:744][714]SourceControl: [master e7c2faf] teste03
+[2018.10.06-04.35.14:744][714]SourceControl:  Date: Sat Oct 6 01:35:13 2018 -0300
+[2018.10.06-04.35.14:744][714]SourceControl:  54 files changed, 0 insertions(+), 0 deletions(-)
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Death.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Idle.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Running.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Slash.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/Walking.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/animation/i_w_r.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/esquema/esquema_veltur.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/final_initialShadingGroup_color.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur_PhysicsAsset.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur_Skeleton.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Fabio/veltur/personagem/veltur_material.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Emerald.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Flask_Health.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Flask_Mana.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Gold.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Ruby.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Stell.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Stone.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Wood_1.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/Wood_2.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/chave01.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/coroa01.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/emerald01.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/escudo01.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/espada01.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/moeda01.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/moeda02.uasset
+[2018.10.06-04.35.14:745][714]SourceControl:  create mode 100644 Content/Objetos/itens/moeda03.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/picareta01.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/potion01.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/potion02.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby01.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby02.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby03.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/itens/ruby04.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/Wood_1.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/Wood_2.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/barril01.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/barril02.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/bau01_Chest_Closed.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/bau_contin_Chest_Open.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/bau_contin_Chest_Open_Cap.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/madeira/caixa01_Box.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/Foliage.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/Stone.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/Wood_3.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra01.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra02.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra03.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra04.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra05.uasset
+[2018.10.06-04.35.14:746][714]SourceControl:  create mode 100644 Content/Objetos/pedras/pedra06.uasset
+[2018.10.06-04.35.14:755][714]SourceControl: Commited [master 6a51b4a] teste03.

@@ -262,3 +262,23 @@ LogInit: Object subsystem initialized
 [2018.10.06-03.25.23:767][  1]LogAssetRegistry: Asset discovery search completed in 25.3980 seconds
 [2018.10.06-03.25.23:768][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.10.06-03.25.23:768][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.10.06-03.30.56:229][328]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.06-03.34.12:669][ 51]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.06-03.34.12:760][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Samuel/Level01" FILE="../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-03.34.12:805][ 51]LogSavePackage: Save=25.64ms
+[2018.10.06-03.34.12:805][ 51]LogSavePackage: Moving '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Saved/Level012563F8474D9AA59650DFDB88109734EF.tmp' to '../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap'
+[2018.10.06-03.34.12:811][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/victo/Documents/Unreal Projects/Veltur_Alunos/Content/Samuel/Level01.umap
+[2018.10.06-03.34.12:813][ 51]LogFileHelpers: Saving map 'Level01' took 0.133
+[2018.10.06-03.34.24:615][367]SourceControl: On branch master
+[2018.10.06-03.34.24:615][367]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.10.06-03.34.24:615][367]SourceControl: Untracked files:
+[2018.10.06-03.34.24:615][367]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.10.06-03.34.24:615][367]SourceControl: 	Content/
+[2018.10.06-03.34.24:615][367]SourceControl: 	Saved/Autosaves/
+[2018.10.06-03.34.24:615][367]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2018.10.06-03.34.30:258][  5]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.10.06-03.34.41:458][  5]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.10.06-03.34.41:524][  5]SourceControl: [master e6e9aa2] teste commit
+[2018.10.06-03.34.41:524][  5]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.10.06-03.34.41:524][  5]SourceControl:  create mode 100644 Content/Samuel/Level01.umap
+[2018.10.06-03.34.41:532][  5]SourceControl: Commited [master e6e9aa2] teste commit.

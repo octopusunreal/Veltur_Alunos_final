@@ -1659,3 +1659,12 @@ LogInit: Object subsystem initialized
 [2018.10.06-12.13.14:790][701]LogSavePackage: Moving '../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Saved/interface_Auto286CB865A48E29D2A2E9E6D8DF5BE4D7B.tmp' to '../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Saved/Autosaves/Game/Anderson/interface/interface_Auto2.uasset'
 [2018.10.06-12.13.14:792][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Saved/Autosaves/Game/Anderson/interface/interface_Auto2.uasset
 [2018.10.06-12.13.14:792][701]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.10.06-12.14.46:540][ 95]BlueprintLog: New page: Compilar interface
+[2018.10.06-12.14.53:048][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anderson/interface/interface" FILE="../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Content/Anderson/interface/interface.uasset" SILENT=true
+[2018.10.06-12.14.53:073][623]LogSavePackage: Save=21.02ms
+[2018.10.06-12.14.53:073][623]LogSavePackage: Moving '../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Saved/interface63EF524E4FCDAC6683B6D18B92A9B130.tmp' to '../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Content/Anderson/interface/interface.uasset'
+[2018.10.06-12.14.53:077][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/anderson_arseno/Veltur_Alunos_final/Content/Anderson/interface/interface.uasset
+[2018.10.06-12.15.00:641][517]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.10.06-12.15.06:780][517]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.10.06-12.15.06:957][517]SourceControl: Error: fatal: cannot do a partial commit during a merge.
+[2018.10.06-12.15.06:961][517]SourceControl: Submitted revision.
